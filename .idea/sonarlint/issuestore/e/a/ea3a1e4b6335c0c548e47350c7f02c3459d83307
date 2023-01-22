@@ -1,0 +1,21 @@
+
+n
+java:S11929"SDefine a constant instead of duplicating this literal "Enter phone number" 3 times.(‹Î›şÿÿÿÿ
+D
+java:S3010")Remove this assignment of "activeOrders".(ŠÎù¥ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(âÂ–ÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(²¥›Çüÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ÌÙ¨–
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¼­Æ¸ûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ó¯”Å
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ûõ±•úÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(÷ç‚Ø
+7	java:S1314""Add a default case to this switch.(¨ÕÉ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(‹Î›şÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(‹Î›şÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(‹Î›şÿÿÿÿ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ŠÜßüÿÿÿÿ8‚…Š˜0
+P
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8‚…Š˜0

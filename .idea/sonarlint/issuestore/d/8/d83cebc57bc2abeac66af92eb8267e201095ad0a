@@ -1,0 +1,6 @@
+
+U
+java:S3400"9Remove this method and declare a constant for this value.(ú”Æ8Çµäôç0
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(·Ê∆©8ëº‰ôç0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“˚¨É8áéΩìç0

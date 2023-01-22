@@ -1,0 +1,17 @@
+
+g
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ë®Á»ıÿÿÿÿ
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ìì¢Ï8ÂÌü¿0
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë®Á»ıÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(­û»ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½Ñò‘úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø×âùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïğ‹È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­ùšÎ
+7	java:S131""Add a default case to this switch.(çñéâ
+7
+java:S6205"Remove this redundant block.(ÙŠ€‹øÿÿÿÿ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ŠÜßüÿÿÿÿ8ËÌü¿0
